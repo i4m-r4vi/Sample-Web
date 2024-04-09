@@ -1,0 +1,24 @@
+.line{
+    text-align: center;
+}
+.f-para{
+    font-size: 20px;
+    color: purple;
+    font-family:sans-serif;
+}
+table,th,td{
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid black;
+}
+.anchor{
+    margin: 20px;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration:wavy;
+    border: 2px solid ;
+    padding: 10px;
+}
